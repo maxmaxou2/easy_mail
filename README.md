@@ -35,7 +35,7 @@ A Python-based email automation tool that allows you to send personalized emails
    - Any additional column becomes automatically available as a variable in your email template
    - Example columns: FirstName, LastName, Company, Department, etc.
 
-<img src="images/example_annuaire.png" width="45%" alt="Example Excel file structure">
+<img src="images/example_annuaire.png" alt="Example Excel file structure">
 
 2. Run the program:
    - On Windows: Double-click `launcher_WINDOWS.bat`
@@ -52,7 +52,7 @@ A Python-based email automation tool that allows you to send personalized emails
    - Path to Excel file
    - Email message template
 
-<img src="images/application_gui.png" width="45%" alt="Application GUI">
+<img src="images/application_gui.png" alt="Application GUI">
 
 4. Click "Send" to start sending emails
 
@@ -90,11 +90,3 @@ The program automatically saves your configuration in `auto_mail/config.txt` and
 - Limited to PDF attachments
 - Requires manual configuration of email credentials
 - No email queue or retry mechanism
-
-## Author
-
-Created by MaxouLeZozo Rossignol
-
-## License
-
-This project is free to use and modify as needed.
