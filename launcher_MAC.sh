@@ -1,0 +1,1 @@
+python3 ./auto_mail/mails_auto.py %*
